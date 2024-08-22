@@ -1,0 +1,23 @@
+#div6{
+    align-items: center;
+    align-content: center;
+    color: brown;
+    align-self: center
+}
+#div_class{
+   color: brown;
+    align-items: center;
+}
+#button2{
+    align-items: end;
+    color: rgb(212, 21, 21);
+    background:greenyellow;
+}
+#div00{
+    background-color: rgb(64, 64, 183)violet;
+    color: rgb(0, 0, 0);
+    border: 1px;
+}
+.body{
+   background-color: #ac73d8;
+}
